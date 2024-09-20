@@ -1,0 +1,15 @@
+/home/kali/dockerPr1/dockerPr1/bin/Debug/net6.0/dockerPr1
+/home/kali/dockerPr1/dockerPr1/bin/Debug/net6.0/dockerPr1.deps.json
+/home/kali/dockerPr1/dockerPr1/bin/Debug/net6.0/dockerPr1.runtimeconfig.json
+/home/kali/dockerPr1/dockerPr1/bin/Debug/net6.0/dockerPr1.dll
+/home/kali/dockerPr1/dockerPr1/bin/Debug/net6.0/dockerPr1.pdb
+/home/kali/dockerPr1/dockerPr1/obj/Debug/net6.0/dockerPr1.csproj.AssemblyReference.cache
+/home/kali/dockerPr1/dockerPr1/obj/Debug/net6.0/dockerPr1.GeneratedMSBuildEditorConfig.editorconfig
+/home/kali/dockerPr1/dockerPr1/obj/Debug/net6.0/dockerPr1.AssemblyInfoInputs.cache
+/home/kali/dockerPr1/dockerPr1/obj/Debug/net6.0/dockerPr1.AssemblyInfo.cs
+/home/kali/dockerPr1/dockerPr1/obj/Debug/net6.0/dockerPr1.csproj.CoreCompileInputs.cache
+/home/kali/dockerPr1/dockerPr1/obj/Debug/net6.0/dockerPr1.dll
+/home/kali/dockerPr1/dockerPr1/obj/Debug/net6.0/refint/dockerPr1.dll
+/home/kali/dockerPr1/dockerPr1/obj/Debug/net6.0/dockerPr1.pdb
+/home/kali/dockerPr1/dockerPr1/obj/Debug/net6.0/dockerPr1.genruntimeconfig.cache
+/home/kali/dockerPr1/dockerPr1/obj/Debug/net6.0/ref/dockerPr1.dll
